@@ -3,7 +3,7 @@ import json
 from dictionary_handler import Dictionary
 from resources import *
 
-API = ""
+API = "5425176431:AAFiwhPjNvvCTBiUYpXG1JsM1urBbgkgfY8"
 
 bot = telebot.TeleBot(API)
 dictionary = Dictionary('dictionaries/en-amh.json')
